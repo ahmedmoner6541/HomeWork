@@ -1,0 +1,4 @@
+#Thu Sep 24 01:36:45 EET 2020
+base.0=C\:\\Users\\Sroor For Laptop\\Desktop\\APK\\architecture-patterns-HomeWork\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
